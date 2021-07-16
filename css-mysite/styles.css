@@ -75,6 +75,15 @@ a:hover {
     text-align: left;
 }
 
+.websites {
+    font-size: 2rem;
+}
+.weblink:hover{
+    color: #8c24d1;
+}
+
+
+
 .pro {
     text-decoration: underline;
 }
